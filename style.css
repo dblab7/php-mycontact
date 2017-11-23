@@ -1,0 +1,254 @@
+#list{
+	width: 620px;
+	/*margin: auto;*/
+}
+
+#list table {
+	border-collapse: collapse;
+	margin: auto;
+	border-spacing: 2px; 
+	width: auto;  
+}
+
+#list .caption {
+	width: 620px;
+}
+
+#list thead {
+	display: table-header-group;
+	vertical-align: middle;
+}
+
+#list tbody {
+	display: table-row-group;
+	vertical-align: middle; 
+}
+
+#list tr {
+	display: table-row; 
+	vertical-align: middle; 
+}
+
+#list td {
+	vertical-align: middle; 
+}
+
+#list th {
+	padding: 5px 0;
+	border-top: 2px solid #666;
+	border-bottom: 1px solid #666;
+	font-weight: bold;
+	display: table-cell;
+}
+
+#list .link {
+	margin: auto; 
+	text-align: center; 
+	margin-top: 20px;
+}
+
+#list .center {
+	text-align: center;
+}
+
+#list .image-box {
+	width: 150px; 
+	height: 200px; 
+	padding: 0px; 
+}
+
+#list .label-box {
+	width: 70px; 
+	padding: 0px; 
+	padding-left: 3px;  
+}
+
+#list .text-box {
+	width: 250px;  
+	padding-left: 10px; 
+}
+
+#list .image {
+	width: 150px; 
+	height: 200px; 
+}
+
+#list .foot {
+	height: 30px; 
+} 
+
+#list .foot td { 
+	padding: 0px; 
+}
+
+#insert_form{
+	width: 720px;
+	/*margin: auto;*/
+}
+
+#insert_form table {
+	width: 720px;
+	border-collapse: collapse;
+	margin: auto;
+	border-spacing: 2px;
+}
+
+#insert_form .caption {
+	width: 720px;
+}
+
+#insert_form thead {
+	display: table-header-group;
+	vertical-align: middle;
+}
+
+#insert_form tbody {
+	display: table-row-group;
+	vertical-align: middle;
+}
+
+#insert_form tr {
+	display: table-row;
+	height: 50px;
+}
+
+#insert_form td {
+	/*width: 620px;*/
+	padding: 5px;
+}
+
+#insert_form th {
+	padding: 5px 0;
+	border-top: 2px solid #666;
+	border-bottom: 1px solid #666;
+	font-weight: bold;
+	display: table-cell;
+}
+
+#insert_form .link {
+	text-align: left;
+	width: 720px;
+	margin: auto;
+}
+
+#insert_form .center {
+	text-align: center;
+}
+
+#insert_form .title {
+	width: 120px;
+	text-align: center;
+}
+
+#insert_form .input {
+	width: 500px;
+	text-align: left;
+	height: 30px;
+}
+
+#insert_form .dap {
+	width: 200px;
+	text-align: left;
+	height: 30px;
+}
+
+
+#update_form{
+  width: 720px;
+  /*margin: auto;*/
+}
+
+#update_form table {
+  width: 720px;
+  border-collapse: collapse;
+  margin: auto;
+  border-spacing: 2px;
+}
+
+#update_form .caption {
+  width: 720px;
+}
+
+#update_form thead {
+  display: table-header-group;
+  vertical-align: middle;
+}
+
+#update_form tbody {
+  display: table-row-group;
+  vertical-align: middle;
+}
+
+#update_form tr {
+  display: table-row;
+  height: 50px;
+}
+
+#update_form td {
+  /*width: 620px;*/
+  padding: 5px;
+}
+
+#update_form th {
+  padding: 5px 0;
+  border-top: 2px solid #666;
+  border-bottom: 1px solid #666;
+  font-weight: bold;
+  display: table-cell;
+}
+
+#update_form .link {
+  text-align: left;
+  width: 720px;
+  margin: auto;
+}
+
+#update_form .center {
+  text-align: center;
+}
+
+#update_form .title {
+  width: 120px;
+  text-align: center;
+}
+
+#update_form .input {
+  width: 500px;
+  text-align: left;
+  height: 30px;
+}
+
+#update_form .dap {
+  width: 200px;
+  text-align: left;
+  height: 30px;
+}
+
+#update_form .image {
+	width: 200px; 
+	height: 200px; 
+}
+
+#update_form .hidden {
+	display: none; 
+}
+
+#update_form .image {
+	width: 150px; 
+	height: 200px; 
+	border: 1px solid #333; 
+}
+
+
+#search {
+	margin:20px auto; text-align: center;
+}
+
+#search .select-box {
+	width: 100px; 
+}
+#search .search-box {
+	padding:4px; border:solid 1px #666666; width:300px; height:30px; font-size:18px;-moz-border-radius: 6px;-webkit-border-radius: 6px;
+}
+
+#search .search-button { border:#000000 solid 1px; padding: 6px; color:#000; font-weight:bold; font-size:16px;-moz-border-radius: 6px;-webkit-border-radius: 6px; }
